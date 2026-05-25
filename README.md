@@ -1,7 +1,7 @@
 <h1 align="center">Ant Colony Optimization (ACO) with Random Initialization</h1>
 
 <p align="center">
-  Implementasi algoritma Ant Colony Optimization (ACO) menggunakan Python untuk optimasi pencarian jalur
+  Implementasi algoritma Ant Colony Optimization (ACO) menggunakan Python untuk optimasi pencarian jalur ada dataset Berlin52
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ project-folder/
 <p>Clone repository:</p>
 
 <pre>
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/MBAHSINGO22/Ant-Colony-Optimization.git
 </pre>
 
 <p>Masuk ke folder project:</p>
